@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized</folder>
+	<filename>20200616_182130.jpg</filename>
+	<path>D:\AISHWARYA\Aishwarya_Project\sugarcane_images\images16062020\resized\20200616_182130.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Damage_Bud</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>306</ymin>
+			<xmax>213</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>
